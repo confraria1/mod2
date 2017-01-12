@@ -1,7 +1,9 @@
 <?php
 
 /**
- * Versão 2.0
+ * CC Micro Framework
+ * Tiago Saviane
+ * V 2.0
  */
 require './_app/config.php';
 require './_app/useful/Core.php';
