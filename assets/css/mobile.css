@@ -1,0 +1,32 @@
+@media (max-width: 992px){
+
+    .container{
+        width: 100%;
+        padding: 0 10px;
+    }
+
+}
+
+@media (max-width: 768px){
+
+    .header{
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin-top: 0;
+        z-index: 10;
+    }
+
+    .home,
+    .contato,
+    .not-found{
+        margin: 50px 0 180px 0;
+    }
+
+    .contato .pos-form{
+        width: 100%;
+        float: left;
+    }
+
+}

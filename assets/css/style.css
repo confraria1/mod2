@@ -1,0 +1,46 @@
+/* HOME */
+
+.home{
+    width: 100%;
+    float: left;
+    margin-bottom: 180px;
+    border: 1px solid green;
+}
+
+/* CONTATO */
+
+.contato{
+    width: 100%;
+    float: left;
+    margin-bottom: 180px;
+    border: 1px solid green;
+}
+
+.contato .pos-form{
+    width: 50%;
+    float: left;
+}
+
+/* EM BREVE */
+
+.em-breve{
+    width: 100%;
+    float: left;
+    margin-bottom: 180px;
+}
+
+.em-breve h4{
+    margin-top: 50px;
+}
+
+/* NOT FOUND */
+
+.not-found{
+    width: 100%;
+    float: left;
+    margin-bottom: 180px;
+}
+
+.not-found h4{
+    margin-top: 50px;
+}
