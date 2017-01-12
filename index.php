@@ -5,6 +5,7 @@
  * Tiago Saviane
  * V 2.0
  */
+ 
 require './_app/config.php';
 require './_app/useful/Core.php';
 require './_app/useful/Useful.php';
